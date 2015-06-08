@@ -1,0 +1,8 @@
+import java.util.*;
+public class cmiObjectCensor {
+private int ketelitian = 75;
+private int sensitifitas 3;
+public CmiObjectCensor() {
+int ketelitian = 50<=100;
+int sensitifitas = 1<=5;
+return new CmiObjectCensor((ketelitian*sensitifitas)/5);
